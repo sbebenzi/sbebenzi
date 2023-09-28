@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:ff1a00&height=100&width=100%&section=header" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif" width="125"/>
+  <img src="https://media.giphy.com/media/VuuywOtkf8gyy89TgY/giphy.gif" width="125"/>
 </p>
 
 <p align="center">
